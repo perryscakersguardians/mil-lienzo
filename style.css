@@ -1,0 +1,16 @@
+.body_background{
+    background-image:url("bg1.jpg") ;
+    background-position:center ;
+    background-size:cover ;
+}
+
+h1{
+    color: purple;
+    font-size: 30px;
+}
+#mycanvas{
+    background-color:white ;
+    border-style:ridge ;
+    border-width:10px ;
+   
+}
